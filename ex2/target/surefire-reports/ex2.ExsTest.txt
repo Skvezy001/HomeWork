@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ex2.ExsTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.029 s <<< FAILURE! - in ex2.ExsTest
+permutationTest(ex2.ExsTest)  Time elapsed: 0.007 s  <<< FAILURE!
+org.junit.internal.ArrayComparisonFailure: arrays first differed at element [1][0]; expected:<2> but was:<1>
+	at ex2.ExsTest.permutationTest(ExsTest.java:36)
+
